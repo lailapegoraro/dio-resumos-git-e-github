@@ -1,5 +1,4 @@
-\# DIO | Resumos Git e Github
-b
+**DIO | Resumos Git e Github**
 
 
 Repositório par armazenar resumos sobre Git e Github do curso Versionamento de Código com Git e Github.
